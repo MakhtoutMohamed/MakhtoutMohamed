@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, I'm Mohamed Makhtout</h1>
-<h3 align="center">I do DevOps</h3>
+<h3 align="center">I do CloudSecOps / DevSecOps</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=makhtoutmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="makhtoutmohamed" /> </p>-->
 
@@ -7,13 +7,12 @@
 
 <!--<p align="left"> <a href="https://twitter.com/makhtoutmohamed" target="blank"><img src="https://img.shields.io/twitter/follow/makhtoutmohamed?logo=twitter&style=for-the-badge" alt="makhtoutmohamed" /></a> </p>-->
 
-- 🌱 I’m currently learning IAC: **Terraform**
+- I’m currently learning.
 
-- 💬 Ask me about **Docker, K8S, Linux, Automation**
+- Ask me about **Docker, K8S, Linux, Automation**
 
-- 📫 How to reach me **https://www.linkedin.com/in/makhtoutmohamed/**
+- How to reach me **https://www.linkedin.com/in/makhtoutmohamed/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/makhtoutmohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="makhtoutmohamed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/makhtoutmohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="makhtoutmohamed" height="30" width="40" /></a>
