@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, I'm Mohamed Makhtout</h1>
 <h3 align="center">I do CloudSecOps / DevSecOps</h3>
 
-- I’m currently learning.
+- I’m currently working as cloudops engineer.
 - Ask me about **Docker, K8S, Linux, Automation**
 - How to reach me :
 <p align="left">
